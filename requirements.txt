@@ -1,0 +1,6 @@
+torch>=2.0.0
+transformers>=4.34.0
+rich>=13.6.0
+tqdm>=4.66.1
+logging>=0.5.1.2
+datetime>=5.2
